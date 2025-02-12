@@ -1,0 +1,26 @@
+next-version: 1.0.0
+branches:
+  main:
+    increment: Minor  # Allows minor updates (1.0.0 → 1.1.0)
+    versioningMode: Continuous  # Continuously updates versions
+    tag: ""  # No special tags for main
+
+  develop:
+    increment: Minor  # Minor version increment for new features and improvements
+    versioningMode: Continuous  # Ensures versioning is updated as development progresses
+    tag: ""
+
+  feature/*:
+    increment: Minor  # New features will increment the minor version (Y)
+    versioningMode: Continuous
+    tag: "-feature"
+
+  hotfix/*:
+    increment: Patch  # Bug fixes should only increment the patch version (Z)
+    versioningMode: Continuous
+    tag: "-hotfix"
+
+  release/*:
+    increment: None  # ✅ Prevents GitVersion from increasing the version
+    versioningMode: ContinuousDelivery  # ✅ Ensures it keeps the version from feature merges
+    tag: "-rc"  # Keeps a stable release candidate (e.g., 1.1.0-rc)

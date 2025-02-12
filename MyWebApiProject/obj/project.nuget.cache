@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7DyNRKGFzoI=",
+  "dgSpecHash": "mwm2JRFabSU=",
   "success": true,
   "projectFilePath": "C:\\Users\\A.Mohsen\\Desktop\\Versions\\MyWebApiProject\\MyWebApiProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A.Mohsen\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\A.Mohsen\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\A.Mohsen\\.nuget\\packages\\gitversion.msbuild\\6.1.0\\gitversion.msbuild.6.1.0.nupkg.sha512",
     "C:\\Users\\A.Mohsen\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\A.Mohsen\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
     "C:\\Users\\A.Mohsen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

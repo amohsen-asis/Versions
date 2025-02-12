@@ -139,3 +139,4 @@ C:\Users\A.Mohsen\Desktop\Versions\MyWebApiProject\obj\Debug\net9.0\refint\MyWeb
 C:\Users\A.Mohsen\Desktop\Versions\MyWebApiProject\obj\Debug\net9.0\MyWebApiProject.pdb
 C:\Users\A.Mohsen\Desktop\Versions\MyWebApiProject\obj\Debug\net9.0\MyWebApiProject.genruntimeconfig.cache
 C:\Users\A.Mohsen\Desktop\Versions\MyWebApiProject\obj\Debug\net9.0\ref\MyWebApiProject.dll
+C:\Users\A.Mohsen\Desktop\Versions\MyWebApiProject\obj\Debug\net9.0\GitVersionInformation.g.cs
